@@ -7,6 +7,9 @@ Google in 2003 &amp; 2007 , Facebook in 2010, and 2013.
 
 # 核心存儲技術
 
+core tech : 將資料儲存於不同的資料節點上！
+
+
         GFS -> BigTable -> HDFS -> HBase
 
 
