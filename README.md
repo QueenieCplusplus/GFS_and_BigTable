@@ -1,4 +1,4 @@
-# GFS and BigTable （）
+# GFS and BigTable （ HBase ）
 Google in 2003 &amp; 2007 , Facebook in 2010, and 2013. 
 
 # 臉書案例
