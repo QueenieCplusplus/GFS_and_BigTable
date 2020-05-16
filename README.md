@@ -11,6 +11,10 @@ core tech : 將資料儲存於不同的資料節點上！資料是以時間戳�
 
 
         GFS -> BigTable -> HDFS -> HBase
+        
+# HDFS
+
+全名為 Hadoop File System，作為 Hadoop 基底設施，將 HDFS 上所有檔案切成 Chunk (以前稱為 Block) 的資料區塊，並搭配容錯效用的 Replication Factor 複製因數。此因數越大，容錯率越高，然而也越浪費資源。
 
 
 # 臉書案例
