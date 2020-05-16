@@ -7,7 +7,7 @@ Google in 2003 &amp; 2007 , Facebook in 2010, and 2013.
 
 # 核心存儲技術
 
-core tech : 將資料儲存於不同的資料節點上！
+core tech : 將資料儲存於不同的資料節點上！資料是以時間戳記搭配 K/V，集合是以 Key 所排序的，而每一個值都有不同的 Timestamps 與其對應。
 
 
         GFS -> BigTable -> HDFS -> HBase
