@@ -1,5 +1,7 @@
 # GFS and BigTable （ HBase ）
-Google in 2003 &amp; 2007 , Facebook in 2010, and 2013. 
+
+Google advocated GFS in 2003 and then introduce HBase in 2007.
+Facebook in 2010, and Apach rleased Open Source in 2013. 
 
 # 學術發表
 
